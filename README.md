@@ -1,16 +1,7 @@
 # spanish_audio_numbers
 
-A new Flutter application.
+One more basic application in the learning phase of flutter. #Hitesh_Chaudhary_Sir is like one of the best guide.
 
-## Getting Started
+In this app, you can listen to all the Spanish numbers from 1 to 10.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#flutter
